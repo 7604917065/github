@@ -1,5 +1,5 @@
-## HELLO EVERYONE
-#### How to install python3 in linux
+## Hello Guys
+How to install python3 in linux
 ```
 $ sudo apt install python3
 
