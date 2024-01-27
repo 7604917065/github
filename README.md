@@ -1,2 +1,2 @@
-*Hello
-*Hi Guys
+-Hello
+-Hi Guys
